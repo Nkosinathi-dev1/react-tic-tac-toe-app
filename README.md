@@ -1,2 +1,1 @@
-# react-essentials-deep-dive-tic-tac-toe-start
-Created with CodeSandbox
+# react tic-tac-toe app
